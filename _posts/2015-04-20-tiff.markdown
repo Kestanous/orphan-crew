@@ -1,0 +1,14 @@
+---
+title:  "Tiff"
+subtitle: "NPC"
+author: "Tiff"
+avatar: "/img/authors/tiff.png"
+image: "/img/tiefling.jpg"
+date:   2015-03-20
+category: character
+---
+
+### Introduction 
+
+Tiff the Tiefling Sorceress has just arrived at the sleepy town of Greenest. She comes on a lead that the Cult of the Dragon is in the area. Seeking to reclaim something of they took from her she asks around town for anything the locals might have heard. Yet they seem to be unaware of the Cults presence. She is as suppressed as town when
+

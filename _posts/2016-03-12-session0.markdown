@@ -1,0 +1,11 @@
+---
+title:  "Session 0"
+subtitle: "Prologue"
+author: "Tiff"
+avatar: "/img/authors/tiff.png"
+image: "/img/the-greenest-field.jpg"
+date:   2016-03-12
+category: blog
+---
+
+### Prologue

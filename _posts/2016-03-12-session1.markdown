@@ -1,0 +1,11 @@
+---
+title:  "Session 1"
+subtitle: "The Start"
+author: "Tiff"
+avatar: "/img/authors/tiff.png"
+image: "/img/blue_dragon.jpg"
+date:   2016-03-12
+category: blog
+---
+
+### Prologue
