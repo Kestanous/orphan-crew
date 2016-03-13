@@ -2,8 +2,8 @@
 title:  "Tiff"
 subtitle: "NPC"
 author: "Tiff"
-avatar: "img/authors/tiff.png"
-image: "img/tiefling.jpg"
+avatar: "authors/tiff.png"
+image: "tiefling.jpg"
 date:   2015-03-20
 category: character
 ---

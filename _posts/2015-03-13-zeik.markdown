@@ -2,8 +2,8 @@
 title:  "Zeik"
 subtitle: "PC"
 author: "Tiff"
-avatar: "img/authors/tiff.png"
-image: "img/tiefling.jpg"
+avatar: "authors/tiff.png"
+image: "tiefling.jpg"
 date:   2015-03-13
 category: character
 ---
