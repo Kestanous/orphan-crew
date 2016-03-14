@@ -7,7 +7,7 @@ layout: master
 <div class="wrapper">
     {% for post in site.posts %}
       {% if post.categories contains 'character' %}
-        {% assign author = site.data.people[page.author] %}
+        {% assign author = site.people[post.author] %}
         <div class="card" data-id="{{ post.id }}">
             <div class="card__container card__container--closed">
                 <svg class="card__image" xmlns="http://www.w3.org/2000/svg"

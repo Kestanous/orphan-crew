@@ -4,3 +4,13 @@ author: "Sivli"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 defaultImg: "trek-to-elturel.jpg"
+people: 
+  tiff:
+    avatar: authors/tiff.png
+    name: Tiff
+  zeik:
+    name: Zeik
+  mida:
+    name: Midahaeth Tyrneaplith
+  reed:
+    name: Reetref Agliher

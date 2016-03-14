@@ -1,7 +1,7 @@
 ---
 title:  "Session 1"
 subtitle: "Big Blue, What Do You?"
-author: "Tiff"
+author: "tiff"
 avatar: "authors/tiff.png"
 image: "blue_dragon.jpg"
 date:   2016-03-12

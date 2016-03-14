@@ -1,7 +1,7 @@
 ---
 title:  "Session ?"
 subtitle: "Trek to Elturel"
-author: "Tiff"
+author: "tiff"
 avatar: "authors/tiff.png"
 date:   2016-03-12
 category: blog
