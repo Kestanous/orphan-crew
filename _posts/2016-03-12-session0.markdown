@@ -1,6 +1,6 @@
 ---
 title:  "Session 0"
-subtitle: "Prologue"
+subtitle: "Misfits"
 author: "Tiff"
 avatar: "authors/tiff.png"
 image: "the-greenest-field.jpg"

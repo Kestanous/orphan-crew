@@ -1,6 +1,6 @@
 ---
 title:  "Session 1"
-subtitle: "The Start"
+subtitle: "Big Blue, What Do You?"
 author: "Tiff"
 avatar: "authors/tiff.png"
 image: "blue_dragon.jpg"

@@ -1,12 +1,18 @@
 ---
 title:  "Tiff"
 subtitle: "NPC"
-author: "Tiff"
+author: "tiff"
 avatar: "authors/tiff.png"
 image: "tiefling.jpg"
-date:   2015-03-20
 category: character
 ---
+
+|  |
+| ------ | ----------- |
+| Pronouns   | She / Her / Hers |
+| Eyes   | Light yellow and green, has been known to have red eyes when angry |
+| Hair | Brown |
+
 
 ### Introduction 
 

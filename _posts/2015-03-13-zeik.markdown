@@ -1,15 +1,12 @@
 ---
 title:  "Zeik"
 subtitle: "PC"
-author: "Tiff"
-avatar: "authors/tiff.png"
-image: "tiefling.jpg"
-date:   2015-03-13
+author: "zeik"
 category: character
 ---
 
 ### Appearance
-Zeik is a silver dragonborn with green-gold eyes and light green hair running like a mane down they’re neck. They have a pair of dark green-gray horns running back from their head. 
+Zeik is a silver dragonborn with green-gold eyes and light green hair running like a mane down their neck. They have a pair of dark green-gray horns running back from their head. 
 
 
 ### Description
